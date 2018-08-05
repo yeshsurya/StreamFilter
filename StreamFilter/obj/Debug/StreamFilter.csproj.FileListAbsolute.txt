@@ -1,0 +1,7 @@
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\bin\Debug\StreamFilter.exe.config
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\bin\Debug\StreamFilter.exe
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\bin\Debug\StreamFilter.pdb
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\obj\Debug\StreamFilter.csprojResolveAssemblyReference.cache
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\obj\Debug\StreamFilter.csproj.CoreCompileInputs.cache
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\obj\Debug\StreamFilter.exe
+C:\Users\ynagaraj\Source\Repos\StreamFilter\StreamFilter\obj\Debug\StreamFilter.pdb
